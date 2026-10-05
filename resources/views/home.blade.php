@@ -4,7 +4,7 @@
 
 @section('content')
     <section class="hero">
-        <h1>Welcome to Our Homepage</h1>
+        <h1>Welcome to Our Homepages</h1>
         <p class="lead">This page was successfully migrated from native PHP to Laravel Blade templates!</p>
         <p>Explore our navigation bar above to view other pages seamlessly without duplicating HTML structure.</p>
     </section>

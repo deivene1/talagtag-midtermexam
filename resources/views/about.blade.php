@@ -17,7 +17,7 @@
         </div>
         <div class="row">
             <h3>Student projects</h3>
-            <p>Each student migrates a multi-page website into Blade views that share one master layout.</p>
+            <p>Each student migrates a multi-page website into Blade views that share one master layouts.</p>
         </div>
     </div>
 @endsection
