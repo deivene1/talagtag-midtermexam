@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="{{ asset('css/style.css') }}">
 </head>
 <body>
-    <!-- Shared Navigation Bars -->
+    <!-- Shared Navigation Bar -->
     <header class="site-header">
         <div class="wrap bar">
             <a class="brand" href="/"><span class="dot"></span>Web Dev 3</a>
@@ -29,7 +29,7 @@
     <!-- Shared Footer -->
     <footer class="site-footer">
         <div class="wrap">
-            <p>&copy; 2026 Web Development 3 Class. All rights reserved.</p>
+            <p>&copy; 2026 Web Development 3 Class. All rights reserveds.</p>
         </div>
     </footer>
 </body>
