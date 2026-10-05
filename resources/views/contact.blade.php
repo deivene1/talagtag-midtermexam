@@ -4,7 +4,7 @@
 
 @section('content')
     <h1>Get in Touch</h1>
-    <p class="lead">Reach out to our team via email or visit our university laboratory workstations.</p>
+    <p class="lead">Reach out to our team via email or visit our university laboratory workstationsgit.</p>
 
     <form class="form" onsubmit="return false;">
         <label for="name">Name</label>
