@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="{{ asset('css/style.css') }}">
 </head>
 <body>
-    <!-- Shared Navigation Bar -->
+    <!-- Shared Navigation Bars -->
     <header class="site-header">
         <div class="wrap bar">
             <a class="brand" href="/"><span class="dot"></span>Web Dev 3</a>
